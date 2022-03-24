@@ -1,4 +1,4 @@
-import { whitelistAddresses, addresses, amount } from './merkle.js?ver=6.0.0'
+import { whitelistAddresses, addresses, amount } from './merkle.js?ver=7.0.0'
 
 
 // Moralis load
